@@ -124,7 +124,7 @@
             Console.Clear();
             Console.WriteLine(" This program is used to evaluate employees during a trial period");
             Console.WriteLine(" Choose an employee and evaluate their completed tasks");
-            Console.WriteLine(" The program will prepare statistics for you based on the entered data");
+            Console.WriteLine(" The program prepares statistics for you based on the entered data");
             Console.WriteLine("\r\n Scope of points");
             Console.WriteLine(" You can enter a points from range 1-6. Entering '+' means +0.4, sign '-' decreases the point by -0.2");
             Console.WriteLine(" It is allowed to provide grades in fractional form, e.g. 4.3, as well as in percentage form in the range of 0-100%, e.g. 0% = 1 and 100% = 6");
